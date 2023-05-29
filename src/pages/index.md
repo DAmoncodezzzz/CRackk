@@ -29,7 +29,7 @@ connections:
     url: "https://discord.gg/moonmm"
     verified: true
   discord-icon-svgrepo-com2:
-    username: "Dark Shop"
+    username: "DarkShop"
     url: "https://discord.gg/darkmart"
     verified: true
 ---
