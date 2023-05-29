@@ -2,61 +2,71 @@
 # PLEASE DO NOT EDIT "layout"
 layout: "../layouts/Layout.astro"
 # Banner type, can be either "color" or "image"
-bannerType: "color"
+bannerType: "image"
 # Banner color or an image depending on the banner type set above,
 # either provide a color inside quotes or a path to an image (external links are supported)
-banner: "#d0cdc3"
+banner: "https://cdn.discordapp.com/attachments/1108604957738942514/1112431475598561442/kedi_bannr.png"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/418306434317680641/b2dbf8037d99af65706882bbdf6390df.png"
+avatar: "https://cdn.discordapp.com/attachments/1108604957738942514/1112430736956469298/e9c114ea-6d06-4015-834c-e86742dfe5b3.png"
 # Discord custom nickname set above
-displayName: "Domin"
+displayName: "CRack"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "Domin#2874"
+username: "CRack"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
-status: "online"
+status: "do-not-disturb"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
 # all names are available at public/badges/margins folder
 badges:
+  "hypesquad-event":
+  "discord-certified-moderator":
   "hypesquad-balance":
-  "active-developer":
+  "bug-hunter-lv2":
+  "nitro": {
+    date: "5 September 2020"
+  }
+  "boost-12-month": {
+    date: "28 May 2022"
+  }
+  "legacy-username": {
+    username: "CRack#6969"
+  }
   # An example of metadata usage, you may uncomment following lines by removing "#":
   # "nitro": {
-  #   date: "13 May 2020"
-  # },
+   #  date: "28 May 2023"
+   #}
   # "legacy-username": {
   #   username: "Domin#2874"
   # },
 # Roles in profile: Key name stands for the label, value is the color
 roles:
-  "Fullstack Web Developer": "#006f72"
-  "UI/UX Designer": "#9b2335"
-  "FOSS Contributor": "#ffecc1"
+  "Exchanger": "#00efff"
+  "Middle Man": "#000000"
 # Connections, all connections are available at public/connections folder
 # "verified" key is optional but indicates verified icon
 # if "url" key is not provided, then the external link icon won't appear
 connections:
-  github:
-    username: "domin-mnd"
-    url: "https://github.com/domin-mnd"
+  discord-icon-svgrepo-com:
+    username: "Moon MM"
+    url: "https://discord.gg/moonmm"
     verified: true
-  reddit:
-    username: "Domin-MC"
-    url: "https://www.reddit.com/u/Domin-MC"
+  discord-icon-svgrepo-com2:
+    username: "Dark Shop"
+    url: "https://discord.gg/darkmart"
     verified: true
-  spotify:
-    username: "Domin"
-    url: "https://open.spotify.com/user/qzvkioir1rboe390cngafj94x"
-    verified: true
-  twitter:
-    username: "Dominiff"
-    url: "https://twitter.com/@dominiff"
-    verified: true
+  # spotify:
+  #   username: "Domin"
+  #   url: "https://open.spotify.com/user/qzvkioir1rboe390cngafj94x"
+  #   verified: true
+  # twitter:
+  #   username: "Dominiff"
+  #   url: "https://twitter.com/@dominiff"
+  #   verified: true
 ---
 
 <!-- Your About Me section -->
 
-Hi, I'm an independent web developer based in Kazan, Russia.
+Hi, I am an experienced exchanger, trusted middleman, and proud Discord shop administrator.
 
-I mostly work with [frontend web development](https://domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
+With extensive expertise as a seasoned exchanger and renowned middleman, I hold the esteemed position of being the administrator of an esteemed and widely acclaimed shop on the Discord platform. [Our shop](https://discord.gg/darkmart) stands as a paragon of trustworthiness, serving as a beacon for individuals seeking secure and reliable transactions.
 
-I'm interested in gaming, studying and experimenting with web design.
+My vouches can be viewed here : [Moon MM](https://discord.gg/moonmm)
